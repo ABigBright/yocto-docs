@@ -15,6 +15,7 @@ Welcome to the Yocto Project Documentation
    :caption: Introduction and Overview
 
    Quick Build <brief-yoctoprojectqs/index>
+   Contributions Guide <contributions-guide/index>
    what-i-wish-id-known
    transitioning-to-a-custom-environment
    Yocto Project Software Overview <https://www.yoctoproject.org/software-overview/>
